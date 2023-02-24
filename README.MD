@@ -100,3 +100,5 @@ BurpSuite 插件存在一个问题,当验证码识别失败时,BurpSuite无法�
 
 [fe1w0/own_captcha (github.com)](https://github.com/fe1w0/own_captcha)
 
+>推荐该项目，用于识别
+[https://github.com/sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
